@@ -1,0 +1,33 @@
+*{margin: 0px; padding: 0px;color:darkred}
+
+.logo{background-color: aquamarine; min-height: 50px;width: 20%; float: left; text-align: center;}
+
+.top_nav{background-color: cyan; min-height: 50px; width: 80%; float: right;text-align: center;}
+
+.promo1{background-color: teal; min-height: 120px; width: 100%;float: right;text-align: center;}
+
+.menu{background-color: cadetblue; min-height: 40px; width: 100%;float: right;text-align: center;}
+
+.content{height: 480px; width: 100%; float: right;overflow: hidden;text-align: center;}
+
+.promo2{min-height: 480px; width: 65%; float: left;text-align: center;}
+
+.promo02{background-color: dimgray; min-height: 240px; width: 100%; float: left;text-align: center;}
+
+.promoI{min-height: 240px; width: 100%; float: left;text-align: center;}
+
+.promoI1{background-color: lightsalmon; min-height: 240px;width: 25%; float: left;text-align: center;}
+
+.promoI2{background-color: darkseagreen; min-height: 240px; width: 25%; float: left;text-align: center;}
+
+.promoI3{background-color: lightskyblue; min-height: 240px; width: 25%; float: left;text-align: center;}
+
+.promoI4{background-color: lightgreen; min-height: 240px; width: 25%; float: left;text-align: center;}
+
+.signup{min-height: 478px; width: 35%;float: right;margin-bottom: 1px;text-align: center;}
+
+.signupf{background-color: aquamarine; min-height:270px; width: 100%;float: right;text-align: center;}
+
+.promo3{background-color: rosybrown; min-height:211px;width: 100%;float: right;text-align: center;}
+
+.footer{background-color: olive; min-height: 78px;width: 100%; float: left;padding-bottom: 2px;text-align: center;}
